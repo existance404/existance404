@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @existance404
-- 👀 I’m interested in UI design, CSS3, HTML5, Python, and JavaScript,
-- 🌱 I’m currently learning Bootstrap5
-- 💞️ I’m looking to collaborate on well nothing really rn
+- 👀 I’m interested in UI design, CSS, HTML, Python, and JavaScript,
 - 📫 How to reach me existance404 #7475
 
 <!---
