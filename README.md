@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @existance404
-- 👀 I’m interested in UI design, Web-Development, robotics, etc.
+- 👀 I’m interested in UI design, Web-Development, robotics, AI etc.
 - 📫 How to reach me existence404 #7475
 
 <!---
