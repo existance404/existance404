@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @existance404
 - 👀 I’m interested in UI design, Web-Development, robotics, AI etc.
 - 📫 How to reach me existence404 #7475
-- Most of my repos are private (including org repos). Please email/ask me on discord to make a repo public.
+- Most of my repos are private lol
 
 <!---
 existance404/existance404 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
